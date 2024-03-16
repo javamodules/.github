@@ -1,8 +1,8 @@
 <br />
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/img/modular-java-banner-txdark-md.png">
-    <img height=300 alt="Java Modules" src="../assets/img/modular-java-banner-txlight-md.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://javamodules.dev/assets/img/modular-java-banner-txdark-lg.png">
+    <img height=300 alt="Java Modules" src="https://javamodules.dev/assets/img/modular-java-banner-txlight-lg.png">
   </picture>
 </p>
 <br />
